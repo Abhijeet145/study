@@ -6,11 +6,13 @@ body{
       font-family:Verdana;
   background-color:lightgrey;
 }
+
 .menu {
   float: left;
   width: 20%;
   
 }
+
 .menuitem {
   padding: 8px;
   margin-top: 7px;
@@ -18,6 +20,7 @@ body{
   background-color:grey;
   text-align:center;
 }
+
 .menuitem a{
     text-decoration:none;
     text-shadow:5px 5px 5px red;
@@ -25,12 +28,14 @@ body{
     font-size:110%;
     text-align:center;
 }
+
 .main {
   float: left;
   width: 60%;
   padding: 10px 20px;
   overflow: visible;
 }
+
 .right {
   background-color: lightblue;
   float: left;
@@ -38,11 +43,16 @@ body{
   padding: 10px 15px;
   margin-top: 7px;
 }
+
 .navbar{
 	text-align: center;
 }
+
 .footer{
+	float: left;
 	text-align: center;
+	width: 100%;
+	padding: 10px 10px;	
 }
 
 .dropbtn {
